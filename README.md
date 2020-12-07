@@ -1,2 +1,2 @@
 # Data-Science-Tasks
-Completed Tasks for "The Spark Foundation"
+Completed Data Science Tasks for "The Spark Foundation"
